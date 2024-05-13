@@ -2,3 +2,11 @@ body {
   text-align: center;
   background-color: burlywood;
 }
+.Photo {
+  width: 300px;
+  height: auto;
+  border-radius: 2px;
+}
+a {
+  margin-left: 14px;
+}
