@@ -1,6 +1,7 @@
 body {
   text-align: center;
-  background-color: burlywood;
+  background-color: #deb887;
+  font-size: 25px;
 }
 .Photo {
   width: 300px;
